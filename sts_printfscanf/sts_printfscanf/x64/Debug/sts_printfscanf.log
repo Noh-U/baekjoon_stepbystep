@@ -1,2 +1,3 @@
-﻿  01_sts_printfscanf_2557.c
+﻿  13_sts_printfscanf_10172.c
+C:\Users\user\source\baekjoon_stepbystep\sts_printfscanf\sts_printfscanf\13_sts_printfscanf_10172.c(31,9): warning C4129: '`': 인식할 수 없는 문자 이스케이프 시퀀스입니다.
   sts_printfscanf.vcxproj -> C:\Users\user\source\baekjoon_stepbystep\sts_printfscanf\x64\Debug\sts_printfscanf.exe

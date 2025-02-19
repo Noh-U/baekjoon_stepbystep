@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\baekjoon_stepbystep\\sts_printfscanf\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{909CCD3E-CEE6-424A-9519-495939BB6222}|sts_printfscanf\\sts_printfscanf.vcxproj|C:\\Users\\user\\source\\baekjoon_stepbystep\\sts_printfscanf\\sts_printfscanf\\01_sts_printfscanf_2557.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{909CCD3E-CEE6-424A-9519-495939BB6222}|sts_printfscanf\\sts_printfscanf.vcxproj|solutionrelative:sts_printfscanf\\01_sts_printfscanf_2557.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{909CCD3E-CEE6-424A-9519-495939BB6222}|sts_printfscanf\\sts_printfscanf.vcxproj|C:\\Users\\user\\source\\baekjoon_stepbystep\\sts_printfscanf\\sts_printfscanf\\13_sts_printfscanf_10172.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{909CCD3E-CEE6-424A-9519-495939BB6222}|sts_printfscanf\\sts_printfscanf.vcxproj|solutionrelative:sts_printfscanf\\13_sts_printfscanf_10172.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909CCD3E-CEE6-424A-9519-495939BB6222}|sts_printfscanf\\sts_printfscanf.vcxproj|C:\\Users\\user\\source\\baekjoon_stepbystep\\sts_printfscanf\\sts_printfscanf\\12_sts_printfscanf_10171.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{909CCD3E-CEE6-424A-9519-495939BB6222}|sts_printfscanf\\sts_printfscanf.vcxproj|solutionrelative:sts_printfscanf\\12_sts_printfscanf_10171.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "01_sts_printfscanf_2557.c",
-              "DocumentMoniker": "C:\\Users\\user\\source\\baekjoon_stepbystep\\sts_printfscanf\\sts_printfscanf\\01_sts_printfscanf_2557.c",
-              "RelativeDocumentMoniker": "sts_printfscanf\\01_sts_printfscanf_2557.c",
-              "ToolTip": "C:\\Users\\user\\source\\baekjoon_stepbystep\\sts_printfscanf\\sts_printfscanf\\01_sts_printfscanf_2557.c",
-              "RelativeToolTip": "sts_printfscanf\\01_sts_printfscanf_2557.c",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "12_sts_printfscanf_10171.c",
+              "DocumentMoniker": "C:\\Users\\user\\source\\baekjoon_stepbystep\\sts_printfscanf\\sts_printfscanf\\12_sts_printfscanf_10171.c",
+              "RelativeDocumentMoniker": "sts_printfscanf\\12_sts_printfscanf_10171.c",
+              "ToolTip": "C:\\Users\\user\\source\\baekjoon_stepbystep\\sts_printfscanf\\sts_printfscanf\\12_sts_printfscanf_10171.c",
+              "RelativeToolTip": "sts_printfscanf\\12_sts_printfscanf_10171.c",
+              "ViewState": "AQIAABsAAAAAAAAAAADwvyEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-15T06:59:21.802Z",
+              "WhenOpened": "2025-02-19T08:58:50.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "13_sts_printfscanf_10172.c",
+              "DocumentMoniker": "C:\\Users\\user\\source\\baekjoon_stepbystep\\sts_printfscanf\\sts_printfscanf\\13_sts_printfscanf_10172.c",
+              "RelativeDocumentMoniker": "sts_printfscanf\\13_sts_printfscanf_10172.c",
+              "ToolTip": "C:\\Users\\user\\source\\baekjoon_stepbystep\\sts_printfscanf\\sts_printfscanf\\13_sts_printfscanf_10172.c",
+              "RelativeToolTip": "sts_printfscanf\\13_sts_printfscanf_10172.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-19T08:56:44.896Z",
               "EditorCaption": ""
             }
           ]
