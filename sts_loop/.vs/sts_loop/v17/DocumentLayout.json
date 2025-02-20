@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\baekjoon_stepbystep\\sts_loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{899FC3D8-8EDB-48AF-9C86-0D9AB666F504}|sts_loop\\sts_loop.vcxproj|C:\\Users\\user\\source\\baekjoon_stepbystep\\sts_loop\\sts_loop\\12_sts_loop_10951.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{899FC3D8-8EDB-48AF-9C86-0D9AB666F504}|sts_loop\\sts_loop.vcxproj|solutionrelative:sts_loop\\12_sts_loop_10951.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "12_sts_loop_10951.c",
+              "DocumentMoniker": "C:\\Users\\user\\source\\baekjoon_stepbystep\\sts_loop\\sts_loop\\12_sts_loop_10951.c",
+              "RelativeDocumentMoniker": "sts_loop\\12_sts_loop_10951.c",
+              "ToolTip": "C:\\Users\\user\\source\\baekjoon_stepbystep\\sts_loop\\sts_loop\\12_sts_loop_10951.c",
+              "RelativeToolTip": "sts_loop\\12_sts_loop_10951.c",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvzQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-20T10:43:42.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
